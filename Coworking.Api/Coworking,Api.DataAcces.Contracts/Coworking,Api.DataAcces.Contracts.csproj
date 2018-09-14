@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Coworking_Api.DataAcces.Contracts</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Enum\" />
+    <Folder Include="Repositres\" />
+  </ItemGroup>
+
+</Project>
